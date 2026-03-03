@@ -1,0 +1,93 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="A6732D16-2E51-B9F6-F214-2F692550EFBD" name="SERVICIO">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:41:19 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<ordsAlias>table_6</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_servicio" id="D643572D-319E-629A-6476-6E6CB224FFD0">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:44:36 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nombre" id="F739DFD3-1156-CFAD-5C64-3BB2AF2283EA">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:44:36 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="descripcion" id="2CE6C260-1552-A7BA-4343-374488D92ACE">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:44:36 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>500 CHAR</dataTypeSize>
+<ownDataTypeParameters>500 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipo_costo" id="14F5E723-A550-37D1-BECB-36D23FF43413">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:44:36 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 CHAR</dataTypeSize>
+<ownDataTypeParameters>20 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="precio" id="8FFE3B05-E1E1-D7E4-535D-F1C6D1B0B51D">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:44:36 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="aplica" id="0EC59637-1982-F6F7-0D00-F6A4883953DE">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:44:36 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 CHAR</dataTypeSize>
+<ownDataTypeParameters>20 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="8200C041-CD75-354E-2EBC-E92A6DFAB8FC" name="SERVICIO_PK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:44:36 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D643572D-319E-629A-6476-6E6CB224FFD0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

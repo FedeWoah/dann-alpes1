@@ -1,0 +1,183 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="684F7B5D-1583-C113-1849-2DF6B61570A8" name="RESERVA">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:03:02 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<ordsAlias>table_13</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_reserva" id="BC315A60-559F-4826-4684-A91EDA31D461">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="fecha_entrada" id="1602A50D-5FB3-8C2E-F613-F62B0E56D945">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="fecha_salida" id="9DF02D1C-0584-3A9E-5701-640EE92B06FC">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="fecha_reserva" id="6DC9E871-DEE0-C15E-AAAA-F10F0CC41B1E">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="num_adultos" id="BCB0A9CA-47CB-00D6-C839-756085A79F66">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="num_menores" id="9FEA88B0-FBFA-39D3-3ED6-AD2A48A107E7">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="precio_total" id="E9064AF8-1A59-B63F-9CD2-AA9CA363425F">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="estado" id="9BAD8196-EF13-162F-D655-A0CC287BDCFC">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 CHAR</dataTypeSize>
+<ownDataTypeParameters>20 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="id_cliente" id="04A9E82A-8886-1943-8BF8-E1823E2096A2">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:41:52 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="25C3A846-2D4D-F212-5C76-DFC1AC59303F" referredColumn="8D985366-81D4-2BFD-E565-7F91DED4A3AA"/>
+</associations>
+</Column>
+<Column name="id_tipo" id="29658345-8218-9328-514D-D85991FC67F7">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A69E663F-DD66-9568-BBCB-612AD33A0519" referredColumn="E98FAC20-0577-DCED-ABA5-A755FBFE9BDF"/>
+</associations>
+</Column>
+<Column name="id_hotel" id="12F2CA7A-5575-53C7-3DAE-3B9DA6B836DA">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2652D713-321B-DBD6-D040-449E9FB1581C" referredColumn="566737D5-A5C1-0465-DC8E-B255AC7F957C"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="DA58510E-ACD2-A599-EDD9-D5418CB541FC" name="RESERVA_PK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:13:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BC315A60-559F-4826-4684-A91EDA31D461"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="2C302D46-DE81-480D-FD94-6B8ABEFCF277" name="RESERVA_CLIENTE_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:49:08 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="04A9E82A-8886-1943-8BF8-E1823E2096A2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="D6D23933-2416-3C46-A42C-55E2DBFF294D" name="RESERVA_HABITACION_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:49:50 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="29658345-8218-9328-514D-D85991FC67F7"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="824BA330-3F90-AC36-9819-B081E75552C4" name="RESERVA_HOTEL_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:49:50 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="12F2CA7A-5575-53C7-3DAE-3B9DA6B836DA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

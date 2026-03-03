@@ -1,0 +1,130 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="B1AA4516-B35D-3D15-DAD9-02B28E1F3C1C" name="HABITACION">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:45:41 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<ordsAlias>table_9</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_habitacion" id="E98FAC20-0577-DCED-ABA5-A755FBFE9BDF">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:52:17 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="numero" id="D9E43121-3211-E3B3-6989-63D5227A56D1">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:52:17 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>10 CHAR</dataTypeSize>
+<ownDataTypeParameters>10 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="piso" id="F0DFA4CD-786A-4630-9835-CDB9D341D06C">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:52:17 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="disopnible" id="FF73DDCB-C314-AC74-7D88-8681085BD6E3">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:52:17 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>2 CHAR</dataTypeSize>
+<ownDataTypeParameters>2 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="id_hotel" id="32EC3ED0-A10D-B3B0-8476-CD7B83C3A1A5">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:52:17 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A48B1234-68DE-E437-1BEB-0228DE43E44F" referredColumn="566737D5-A5C1-0465-DC8E-B255AC7F957C"/>
+</associations>
+</Column>
+<Column name="id_tipo" id="5D8DD759-82E1-EE09-DC0E-6FE5204AACA0">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:52:17 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="EDC85FFA-9D40-995A-45A0-3FFF8C36315D" referredColumn="E98FAC20-0577-DCED-ABA5-A755FBFE9BDF"/>
+<colAssociation fkAssociation="C515B665-D0B8-3F0E-4453-9DC8975F110B" referredColumn="E1752340-84A2-A722-37F4-EBD67305E49A"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="5E0ADB1B-817F-6979-5AFA-63AF4BB11D45" name="habitacion_PK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:52:17 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E98FAC20-0577-DCED-ABA5-A755FBFE9BDF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="114A59F8-F4EB-7B5C-A61E-922119680432" name="HABITACION_HOTEL_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:54:09 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="32EC3ED0-A10D-B3B0-8476-CD7B83C3A1A5"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="5CEBCAC8-11B3-60D4-11BA-6A16EB111F0D" name="HABITACION_HABITACION_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:55:25 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5D8DD759-82E1-EE09-DC0E-6FE5204AACA0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="5C39989E-19B4-09F7-757F-84A03DFE1C2A" name="HABITACION_TIPO_HABITACION_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:54:30 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5D8DD759-82E1-EE09-DC0E-6FE5204AACA0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

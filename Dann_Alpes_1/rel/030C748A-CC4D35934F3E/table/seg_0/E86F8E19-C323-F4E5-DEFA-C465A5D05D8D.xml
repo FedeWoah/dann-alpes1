@@ -1,0 +1,86 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="E86F8E19-C323-F4E5-DEFA-C465A5D05D8D" name="TIPO_SERVICIO">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:14:24 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<ordsAlias>table_14</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_tipo" id="2B72B3B0-C160-07C9-CF47-81ECDF2389ED">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:19:05 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="25594784-62E1-E561-0D80-1832C1558368" referredColumn="E1752340-84A2-A722-37F4-EBD67305E49A"/>
+</associations>
+</Column>
+<Column name="id_servicio" id="AA6073EE-53BC-FFDC-931A-F2F8237FF3F1">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:19:53 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="96CC1572-8C15-EA04-4F09-D043CBEDEC48" referredColumn="D643572D-319E-629A-6476-6E6CB224FFD0"/>
+</associations>
+</Column>
+<Column name="precio_especial" id="59A3B5CD-38E9-7ED0-3708-1015B04836E4">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:19:05 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="B117B985-12ED-1EB0-3952-1A4FEFB674FC" name="TIPO_SERVICIO_PK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:19:05 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2B72B3B0-C160-07C9-CF47-81ECDF2389ED"/>
+<colUsage columnID="AA6073EE-53BC-FFDC-931A-F2F8237FF3F1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="6DA3F36F-682A-35FA-D6B7-ADE071D134CD" name="TIPO_SERVICIO_TIPO_HABITACION_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 16:03:02 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2B72B3B0-C160-07C9-CF47-81ECDF2389ED"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="9165CEAC-F510-B3D3-5CF4-60DA618344BA" name="TIPO_SERVICIO_SERVICIO_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 16:03:02 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="AA6073EE-53BC-FFDC-931A-F2F8237FF3F1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

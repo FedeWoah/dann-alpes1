@@ -1,0 +1,58 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D24CD11D-E5B0-D28B-4AE4-7897E6679ED1" name="CIDUDAD">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:28:08 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<ordsAlias>table_1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_ciudad" id="69BD5B34-0BD0-3A33-EB78-7BBEFBE01E1F">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:28:42 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nombre" id="BF16426A-7138-26AD-A3A5-0B3368797AC2">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:31:47 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="pais" id="255D6584-A1EC-13CA-73AF-398E3DBA33E5">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:31:47 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="15BCE560-4E67-E889-230D-FE286DB7B31A" name="CIDUDAD_PK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:31:47 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="69BD5B34-0BD0-3A33-EB78-7BBEFBE01E1F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

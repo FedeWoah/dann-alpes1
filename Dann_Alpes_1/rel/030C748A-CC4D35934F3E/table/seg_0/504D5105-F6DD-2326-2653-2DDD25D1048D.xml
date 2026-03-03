@@ -1,0 +1,108 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="504D5105-F6DD-2326-2653-2DDD25D1048D" name="RESERVA_SERVICIO">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:20:50 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<ordsAlias>table_16</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_reserva_servicio" id="6F01B5E6-5318-9725-AF60-185DA888555C">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:24:41 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="id_reserva" id="A698A5E3-BD83-714E-C822-8B7D38D7A6F9">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:24:41 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="52D8688C-AB4F-617E-58ED-B804CB64A4C1" referredColumn="BC315A60-559F-4826-4684-A91EDA31D461"/>
+</associations>
+</Column>
+<Column name="id_servicio" id="4462B148-B2D6-A5DD-7B15-C9C55D5D7622">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:24:41 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="80000F45-FEA6-B6BC-E377-D8267E03D436" referredColumn="6F01B5E6-5318-9725-AF60-185DA888555C"/>
+</associations>
+</Column>
+<Column name="cantidad" id="8521E8BA-6ED1-F409-C763-27274E953D55">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:24:41 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="precio_aplicado" id="05257D23-1F94-9807-ACF1-BFD235ACD8BD">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:24:41 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="44ED3D29-2600-25A6-45BD-D42422D20920" name="RESERVA_SERVICIO_PK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 15:24:41 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6F01B5E6-5318-9725-AF60-185DA888555C"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="07887200-9568-312D-9298-77DE55F570D8" name="RESERVA_SERVICIO_RESERVA_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 16:03:49 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A698A5E3-BD83-714E-C822-8B7D38D7A6F9"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="5ECB49D5-7B39-5C8B-6CE3-48FE85710A6B" name="RESERVA_SERVICIO_RESERVA_SERVICIO_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 16:04:18 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4462B148-B2D6-A5DD-7B15-C9C55D5D7622"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

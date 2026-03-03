@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="A596EA2C-A811-C19D-87C3-FDC6D9571CF9" containerWithKeyObject="123B183E-8C34-8334-19D5-3254063687D6" localFKIndex="A451D431-44E4-A7B5-FA66-8B2A70E58F25" name="HOTEL_CIDUDAD_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:37:19 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<referredTableLongName>CIDUDAD</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>D24CD11D-E5B0-D28B-4AE4-7897E6679ED1</referredTableID>
+<keyObject>15BCE560-4E67-E889-230D-FE286DB7B31A</keyObject>
+<referredKeyID>15BCE560-4E67-E889-230D-FE286DB7B31A</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_ciudad</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

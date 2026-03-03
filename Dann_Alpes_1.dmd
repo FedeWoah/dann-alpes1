@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Dann_Alpes_1" id="D8691DC2-0077-FC9E-1193-673726B38965" version="3.5">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:24:20 UTC</createdTime>
+<ownerDesignName>HOTELES</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D8691DC2-0077-FC9E-1193-673726B38965</designId>
+</OSDM_Design>

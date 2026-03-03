@@ -1,0 +1,131 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="EBAFA956-940F-9CC9-1985-C7A1018F1249" name="TIPO_HABITACION">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:37:43 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<ordsAlias>table_5</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_tipo" id="E1752340-84A2-A722-37F4-EBD67305E49A">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nombre" id="8F030522-E6EF-C70E-AD87-8BB29A723ACB">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="costo_baja" id="DD75006A-1328-E298-6CE5-CFBB14CA347F">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="costo_alta" id="06F355E5-7DFD-B914-38D1-A8DB302EE811">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,10,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="dimenciones" id="C70EB098-00FA-7823-BEDB-9A9827BD1A18">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vista" id="833B6FE0-B5DC-028B-AAB5-9C776A2A4AB3">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="capacidad" id="9FE910F9-4BF7-7A29-EAB3-73F57CF5CD84">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="id_hotel" id="36FCC872-3E4E-1FB2-EE03-67349A0F1B4D">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="7AD0C8EF-B651-071B-8BDB-DFA5B910D4BB" referredColumn="566737D5-A5C1-0465-DC8E-B255AC7F957C"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="FB2C0875-1155-097D-D151-08592CAC5C8A" name="TIPO_HABITACION_PK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:40:46 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E1752340-84A2-A722-37F4-EBD67305E49A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="64253ECE-9EAE-57E9-CA48-67877B5CD316" name="TIPO_HABITACION_HOTEL_FK">
+<createdBy>Support</createdBy>
+<createdTime>2026-03-02 14:41:07 UTC</createdTime>
+<ownerDesignName>Dann_Alpes_1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="36FCC872-3E4E-1FB2-EE03-67349A0F1B4D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
