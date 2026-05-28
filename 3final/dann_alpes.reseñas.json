@@ -1,0 +1,4243 @@
+[{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27008"
+  },
+  "cliente_id": 1001,
+  "hotel_id": 16,
+  "reserva_id": 5001,
+  "calificacion": 1,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-02-02",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    590,
+    312,
+    581,
+    489
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27009"
+  },
+  "cliente_id": 1002,
+  "hotel_id": 17,
+  "reserva_id": 5002,
+  "calificacion": 4,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-03",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    762,
+    240,
+    438,
+    417
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2700a"
+  },
+  "cliente_id": 1003,
+  "hotel_id": 18,
+  "reserva_id": 5003,
+  "calificacion": 2,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-01-04",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    962
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2700b"
+  },
+  "cliente_id": 1004,
+  "hotel_id": 19,
+  "reserva_id": 5004,
+  "calificacion": 5,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-02-05",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2700c"
+  },
+  "cliente_id": 1005,
+  "hotel_id": 20,
+  "reserva_id": 5005,
+  "calificacion": 4,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-03-06",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-06"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2700d"
+  },
+  "cliente_id": 1006,
+  "hotel_id": 21,
+  "reserva_id": 5006,
+  "calificacion": 2,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-07",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    933,
+    613
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2700e"
+  },
+  "cliente_id": 1007,
+  "hotel_id": 22,
+  "reserva_id": 5007,
+  "calificacion": 3,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-02-08",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-08"
+  },
+  "votos_utilidad": [
+    264,
+    628
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2700f"
+  },
+  "cliente_id": 1008,
+  "hotel_id": 23,
+  "reserva_id": 5008,
+  "calificacion": 1,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-03-09",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    210,
+    756,
+    948,
+    739,
+    855
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27010"
+  },
+  "cliente_id": 1009,
+  "hotel_id": 24,
+  "reserva_id": 5009,
+  "calificacion": 2,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-01-10",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27011"
+  },
+  "cliente_id": 1010,
+  "hotel_id": 15,
+  "reserva_id": 5010,
+  "calificacion": 4,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-02-11",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-11"
+  },
+  "votos_utilidad": [
+    911
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27012"
+  },
+  "cliente_id": 1011,
+  "hotel_id": 16,
+  "reserva_id": 5011,
+  "calificacion": 4,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-03-12",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-12"
+  },
+  "votos_utilidad": [
+    607,
+    766,
+    719,
+    855
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27013"
+  },
+  "cliente_id": 1012,
+  "hotel_id": 17,
+  "reserva_id": 5012,
+  "calificacion": 1,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-01-13",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    956,
+    633,
+    926
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27014"
+  },
+  "cliente_id": 1013,
+  "hotel_id": 18,
+  "reserva_id": 5013,
+  "calificacion": 2,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-02-14",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27015"
+  },
+  "cliente_id": 1014,
+  "hotel_id": 19,
+  "reserva_id": 5014,
+  "calificacion": 5,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-03-15",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-15"
+  },
+  "votos_utilidad": [
+    326,
+    949,
+    692,
+    392,
+    371
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27016"
+  },
+  "cliente_id": 1015,
+  "hotel_id": 20,
+  "reserva_id": 5015,
+  "calificacion": 4,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-01-16",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-16"
+  },
+  "votos_utilidad": [
+    631
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27017"
+  },
+  "cliente_id": 1016,
+  "hotel_id": 21,
+  "reserva_id": 5016,
+  "calificacion": 1,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-02-17",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    954,
+    868,
+    833
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27018"
+  },
+  "cliente_id": 1017,
+  "hotel_id": 22,
+  "reserva_id": 5017,
+  "calificacion": 3,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-03-18",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-18"
+  },
+  "votos_utilidad": [
+    448,
+    625,
+    464,
+    221
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27019"
+  },
+  "cliente_id": 1018,
+  "hotel_id": 23,
+  "reserva_id": 5018,
+  "calificacion": 2,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-01-19",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-19"
+  },
+  "votos_utilidad": [
+    641,
+    515,
+    898
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2701a"
+  },
+  "cliente_id": 1019,
+  "hotel_id": 24,
+  "reserva_id": 5019,
+  "calificacion": 1,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-02-20",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-20"
+  },
+  "votos_utilidad": [
+    962,
+    225,
+    386
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2701b"
+  },
+  "cliente_id": 1020,
+  "hotel_id": 15,
+  "reserva_id": 5020,
+  "calificacion": 3,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-03-21",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    335,
+    371,
+    296,
+    466,
+    818
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2701c"
+  },
+  "cliente_id": 1021,
+  "hotel_id": 16,
+  "reserva_id": 5021,
+  "calificacion": 5,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-01-22",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-22"
+  },
+  "votos_utilidad": [
+    723,
+    528,
+    834,
+    746
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2701d"
+  },
+  "cliente_id": 1022,
+  "hotel_id": 17,
+  "reserva_id": 5022,
+  "calificacion": 3,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-02-23",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    318
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2701e"
+  },
+  "cliente_id": 1023,
+  "hotel_id": 18,
+  "reserva_id": 5023,
+  "calificacion": 1,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-24",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-24"
+  },
+  "votos_utilidad": [
+    315
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2701f"
+  },
+  "cliente_id": 1024,
+  "hotel_id": 19,
+  "reserva_id": 5024,
+  "calificacion": 5,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-01-25",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    641,
+    720
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27020"
+  },
+  "cliente_id": 1025,
+  "hotel_id": 20,
+  "reserva_id": 5025,
+  "calificacion": 4,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-02-26",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    448,
+    262,
+    439,
+    253
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27021"
+  },
+  "cliente_id": 1026,
+  "hotel_id": 21,
+  "reserva_id": 5026,
+  "calificacion": 3,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-03-27",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    307,
+    723,
+    305,
+    646
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27022"
+  },
+  "cliente_id": 1027,
+  "hotel_id": 22,
+  "reserva_id": 5027,
+  "calificacion": 5,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-01-28",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    262,
+    246
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27023"
+  },
+  "cliente_id": 1028,
+  "hotel_id": 23,
+  "reserva_id": 5028,
+  "calificacion": 3,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-02-01",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-01"
+  },
+  "votos_utilidad": [
+    854,
+    943,
+    367,
+    813,
+    494
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27024"
+  },
+  "cliente_id": 1029,
+  "hotel_id": 24,
+  "reserva_id": 5029,
+  "calificacion": 2,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-03-02",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    556,
+    845,
+    759,
+    823
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27025"
+  },
+  "cliente_id": 1030,
+  "hotel_id": 15,
+  "reserva_id": 5030,
+  "calificacion": 4,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-03",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-03"
+  },
+  "votos_utilidad": [
+    816,
+    390
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27026"
+  },
+  "cliente_id": 1031,
+  "hotel_id": 16,
+  "reserva_id": 5031,
+  "calificacion": 2,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-02-04",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    535,
+    729,
+    608,
+    570,
+    555
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27027"
+  },
+  "cliente_id": 1032,
+  "hotel_id": 17,
+  "reserva_id": 5032,
+  "calificacion": 1,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-03-05",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-05"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27028"
+  },
+  "cliente_id": 1033,
+  "hotel_id": 18,
+  "reserva_id": 5033,
+  "calificacion": 3,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-01-06",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-06"
+  },
+  "votos_utilidad": [
+    736
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27029"
+  },
+  "cliente_id": 1034,
+  "hotel_id": 19,
+  "reserva_id": 5034,
+  "calificacion": 3,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-02-07",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    419,
+    379,
+    277,
+    438,
+    553
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2702a"
+  },
+  "cliente_id": 1035,
+  "hotel_id": 20,
+  "reserva_id": 5035,
+  "calificacion": 2,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-03-08",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-08"
+  },
+  "votos_utilidad": [
+    636,
+    416
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2702b"
+  },
+  "cliente_id": 1036,
+  "hotel_id": 21,
+  "reserva_id": 5036,
+  "calificacion": 5,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-09",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    445,
+    387,
+    892
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2702c"
+  },
+  "cliente_id": 1037,
+  "hotel_id": 22,
+  "reserva_id": 5037,
+  "calificacion": 2,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-02-10",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-10"
+  },
+  "votos_utilidad": [
+    899,
+    791,
+    782,
+    738,
+    806
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2702d"
+  },
+  "cliente_id": 1038,
+  "hotel_id": 23,
+  "reserva_id": 5038,
+  "calificacion": 4,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-03-11",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-11"
+  },
+  "votos_utilidad": [
+    205,
+    667,
+    544,
+    617
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2702e"
+  },
+  "cliente_id": 1039,
+  "hotel_id": 24,
+  "reserva_id": 5039,
+  "calificacion": 5,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-12",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-12"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2702f"
+  },
+  "cliente_id": 1040,
+  "hotel_id": 15,
+  "reserva_id": 5040,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-13",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    856,
+    706,
+    239
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27030"
+  },
+  "cliente_id": 1041,
+  "hotel_id": 16,
+  "reserva_id": 5041,
+  "calificacion": 3,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-03-14",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    392
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27031"
+  },
+  "cliente_id": 1042,
+  "hotel_id": 17,
+  "reserva_id": 5042,
+  "calificacion": 1,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-15",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-15"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27032"
+  },
+  "cliente_id": 1043,
+  "hotel_id": 18,
+  "reserva_id": 5043,
+  "calificacion": 5,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-16",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    695,
+    938,
+    804,
+    682
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27033"
+  },
+  "cliente_id": 1044,
+  "hotel_id": 19,
+  "reserva_id": 5044,
+  "calificacion": 5,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-03-17",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-17"
+  },
+  "votos_utilidad": [
+    301
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27034"
+  },
+  "cliente_id": 1045,
+  "hotel_id": 20,
+  "reserva_id": 5045,
+  "calificacion": 5,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-01-18",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-18"
+  },
+  "votos_utilidad": [
+    299,
+    916,
+    292,
+    379,
+    201
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27035"
+  },
+  "cliente_id": 1046,
+  "hotel_id": 21,
+  "reserva_id": 5046,
+  "calificacion": 4,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-02-19",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-19"
+  },
+  "votos_utilidad": [
+    487,
+    878,
+    956,
+    571,
+    847
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27036"
+  },
+  "cliente_id": 1047,
+  "hotel_id": 22,
+  "reserva_id": 5047,
+  "calificacion": 3,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-20",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    707,
+    770
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27037"
+  },
+  "cliente_id": 1048,
+  "hotel_id": 23,
+  "reserva_id": 5048,
+  "calificacion": 5,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-01-21",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-21"
+  },
+  "votos_utilidad": [
+    494
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27038"
+  },
+  "cliente_id": 1049,
+  "hotel_id": 24,
+  "reserva_id": 5049,
+  "calificacion": 2,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-02-22",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-22"
+  },
+  "votos_utilidad": [
+    883,
+    962
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27039"
+  },
+  "cliente_id": 1050,
+  "hotel_id": 15,
+  "reserva_id": 5050,
+  "calificacion": 2,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-03-23",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-23"
+  },
+  "votos_utilidad": [
+    656,
+    501,
+    872,
+    747
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2703a"
+  },
+  "cliente_id": 1051,
+  "hotel_id": 16,
+  "reserva_id": 5051,
+  "calificacion": 5,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-01-24",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-24"
+  },
+  "votos_utilidad": [
+    592,
+    676,
+    407,
+    606
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2703b"
+  },
+  "cliente_id": 1052,
+  "hotel_id": 17,
+  "reserva_id": 5052,
+  "calificacion": 1,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-02-25",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2703c"
+  },
+  "cliente_id": 1053,
+  "hotel_id": 18,
+  "reserva_id": 5053,
+  "calificacion": 2,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-03-26",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-26"
+  },
+  "votos_utilidad": [
+    528,
+    548,
+    312,
+    761
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2703d"
+  },
+  "cliente_id": 1054,
+  "hotel_id": 19,
+  "reserva_id": 5054,
+  "calificacion": 5,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-01-27",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-27"
+  },
+  "votos_utilidad": [
+    389
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2703e"
+  },
+  "cliente_id": 1055,
+  "hotel_id": 20,
+  "reserva_id": 5055,
+  "calificacion": 3,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-02-28",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-28"
+  },
+  "votos_utilidad": [
+    437,
+    708
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2703f"
+  },
+  "cliente_id": 1056,
+  "hotel_id": 21,
+  "reserva_id": 5056,
+  "calificacion": 1,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-01",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    233,
+    512,
+    692,
+    434
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27040"
+  },
+  "cliente_id": 1057,
+  "hotel_id": 22,
+  "reserva_id": 5057,
+  "calificacion": 3,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-01-02",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-02"
+  },
+  "votos_utilidad": [
+    977,
+    551,
+    468
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27041"
+  },
+  "cliente_id": 1058,
+  "hotel_id": 23,
+  "reserva_id": 5058,
+  "calificacion": 5,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-02-03",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    879,
+    312,
+    588
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27042"
+  },
+  "cliente_id": 1059,
+  "hotel_id": 24,
+  "reserva_id": 5059,
+  "calificacion": 4,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-03-04",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    324,
+    246
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27043"
+  },
+  "cliente_id": 1060,
+  "hotel_id": 15,
+  "reserva_id": 5060,
+  "calificacion": 3,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-05",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    528,
+    449,
+    726,
+    858,
+    959
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27044"
+  },
+  "cliente_id": 1061,
+  "hotel_id": 16,
+  "reserva_id": 5061,
+  "calificacion": 5,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-02-06",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-06"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27045"
+  },
+  "cliente_id": 1062,
+  "hotel_id": 17,
+  "reserva_id": 5062,
+  "calificacion": 3,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-03-07",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    911
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27046"
+  },
+  "cliente_id": 1063,
+  "hotel_id": 18,
+  "reserva_id": 5063,
+  "calificacion": 1,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-08",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-08"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27047"
+  },
+  "cliente_id": 1064,
+  "hotel_id": 19,
+  "reserva_id": 5064,
+  "calificacion": 3,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-02-09",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-09"
+  },
+  "votos_utilidad": [
+    653
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27048"
+  },
+  "cliente_id": 1065,
+  "hotel_id": 20,
+  "reserva_id": 5065,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-03-10",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-10"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27049"
+  },
+  "cliente_id": 1066,
+  "hotel_id": 21,
+  "reserva_id": 5066,
+  "calificacion": 1,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-11",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-11"
+  },
+  "votos_utilidad": [
+    219,
+    584,
+    324
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2704a"
+  },
+  "cliente_id": 1067,
+  "hotel_id": 22,
+  "reserva_id": 5067,
+  "calificacion": 1,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-02-12",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    438,
+    220
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2704b"
+  },
+  "cliente_id": 1068,
+  "hotel_id": 23,
+  "reserva_id": 5068,
+  "calificacion": 1,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-13",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    773,
+    733,
+    693,
+    431
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2704c"
+  },
+  "cliente_id": 1069,
+  "hotel_id": 24,
+  "reserva_id": 5069,
+  "calificacion": 5,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-14",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-14"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2704d"
+  },
+  "cliente_id": 1070,
+  "hotel_id": 15,
+  "reserva_id": 5070,
+  "calificacion": 1,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-02-15",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    701,
+    822,
+    297,
+    775,
+    307
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2704e"
+  },
+  "cliente_id": 1071,
+  "hotel_id": 16,
+  "reserva_id": 5071,
+  "calificacion": 5,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-03-16",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-16"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2704f"
+  },
+  "cliente_id": 1072,
+  "hotel_id": 17,
+  "reserva_id": 5072,
+  "calificacion": 5,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-17",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    573,
+    818,
+    211,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27050"
+  },
+  "cliente_id": 1073,
+  "hotel_id": 18,
+  "reserva_id": 5073,
+  "calificacion": 5,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-02-18",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27051"
+  },
+  "cliente_id": 1074,
+  "hotel_id": 19,
+  "reserva_id": 5074,
+  "calificacion": 2,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-03-19",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-19"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27052"
+  },
+  "cliente_id": 1075,
+  "hotel_id": 20,
+  "reserva_id": 5075,
+  "calificacion": 2,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-01-20",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-20"
+  },
+  "votos_utilidad": [
+    812,
+    591,
+    922,
+    336
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27053"
+  },
+  "cliente_id": 1076,
+  "hotel_id": 21,
+  "reserva_id": 5076,
+  "calificacion": 5,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-02-21",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-21"
+  },
+  "votos_utilidad": [
+    483,
+    413,
+    529
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27054"
+  },
+  "cliente_id": 1077,
+  "hotel_id": 22,
+  "reserva_id": 5077,
+  "calificacion": 4,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-03-22",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-22"
+  },
+  "votos_utilidad": [
+    511,
+    454,
+    888,
+    583
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27055"
+  },
+  "cliente_id": 1078,
+  "hotel_id": 23,
+  "reserva_id": 5078,
+  "calificacion": 4,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-23",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-23"
+  },
+  "votos_utilidad": [
+    345,
+    371,
+    551,
+    986,
+    677
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27056"
+  },
+  "cliente_id": 1079,
+  "hotel_id": 24,
+  "reserva_id": 5079,
+  "calificacion": 5,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-02-24",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-24"
+  },
+  "votos_utilidad": [
+    585
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27057"
+  },
+  "cliente_id": 1080,
+  "hotel_id": 15,
+  "reserva_id": 5080,
+  "calificacion": 5,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-03-25",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-25"
+  },
+  "votos_utilidad": [
+    249,
+    877,
+    452,
+    668,
+    483
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27058"
+  },
+  "cliente_id": 1081,
+  "hotel_id": 16,
+  "reserva_id": 5081,
+  "calificacion": 3,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-26",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27059"
+  },
+  "cliente_id": 1082,
+  "hotel_id": 17,
+  "reserva_id": 5082,
+  "calificacion": 1,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-02-27",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    365,
+    524
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2705a"
+  },
+  "cliente_id": 1083,
+  "hotel_id": 18,
+  "reserva_id": 5083,
+  "calificacion": 2,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-28",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2705b"
+  },
+  "cliente_id": 1084,
+  "hotel_id": 19,
+  "reserva_id": 5084,
+  "calificacion": 4,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-01",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    915,
+    435,
+    312,
+    453
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2705c"
+  },
+  "cliente_id": 1085,
+  "hotel_id": 20,
+  "reserva_id": 5085,
+  "calificacion": 4,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-02",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    257
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2705d"
+  },
+  "cliente_id": 1086,
+  "hotel_id": 21,
+  "reserva_id": 5086,
+  "calificacion": 3,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-03",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-03"
+  },
+  "votos_utilidad": [
+    880,
+    660,
+    698,
+    915,
+    240
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2705e"
+  },
+  "cliente_id": 1087,
+  "hotel_id": 22,
+  "reserva_id": 5087,
+  "calificacion": 5,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-01-04",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    901,
+    404,
+    908,
+    475,
+    910
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2705f"
+  },
+  "cliente_id": 1088,
+  "hotel_id": 23,
+  "reserva_id": 5088,
+  "calificacion": 4,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-02-05",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    535,
+    876,
+    607,
+    312
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27060"
+  },
+  "cliente_id": 1089,
+  "hotel_id": 24,
+  "reserva_id": 5089,
+  "calificacion": 4,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-06",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-06"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27061"
+  },
+  "cliente_id": 1090,
+  "hotel_id": 15,
+  "reserva_id": 5090,
+  "calificacion": 1,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-01-07",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-07"
+  },
+  "votos_utilidad": [
+    680,
+    937,
+    695,
+    840
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27062"
+  },
+  "cliente_id": 1091,
+  "hotel_id": 16,
+  "reserva_id": 5091,
+  "calificacion": 4,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-02-08",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    261,
+    921,
+    317,
+    836,
+    900
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27063"
+  },
+  "cliente_id": 1092,
+  "hotel_id": 17,
+  "reserva_id": 5092,
+  "calificacion": 3,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-03-09",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-09"
+  },
+  "votos_utilidad": [
+    877,
+    341,
+    699,
+    251
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27064"
+  },
+  "cliente_id": 1093,
+  "hotel_id": 18,
+  "reserva_id": 5093,
+  "calificacion": 5,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-10",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-10"
+  },
+  "votos_utilidad": [
+    442,
+    973
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27065"
+  },
+  "cliente_id": 1094,
+  "hotel_id": 19,
+  "reserva_id": 5094,
+  "calificacion": 5,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-02-11",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    215,
+    283
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27066"
+  },
+  "cliente_id": 1095,
+  "hotel_id": 20,
+  "reserva_id": 5095,
+  "calificacion": 2,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-03-12",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    672,
+    595,
+    734
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27067"
+  },
+  "cliente_id": 1096,
+  "hotel_id": 21,
+  "reserva_id": 5096,
+  "calificacion": 3,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-13",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-13"
+  },
+  "votos_utilidad": [
+    301
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27068"
+  },
+  "cliente_id": 1097,
+  "hotel_id": 22,
+  "reserva_id": 5097,
+  "calificacion": 5,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-02-14",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-14"
+  },
+  "votos_utilidad": [
+    201,
+    915,
+    244,
+    501,
+    632
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27069"
+  },
+  "cliente_id": 1098,
+  "hotel_id": 23,
+  "reserva_id": 5098,
+  "calificacion": 4,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-03-15",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-15"
+  },
+  "votos_utilidad": [
+    974,
+    377,
+    827,
+    759,
+    561
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2706a"
+  },
+  "cliente_id": 1099,
+  "hotel_id": 24,
+  "reserva_id": 5099,
+  "calificacion": 3,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-01-16",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-16"
+  },
+  "votos_utilidad": [
+    645,
+    305
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2706b"
+  },
+  "cliente_id": 1100,
+  "hotel_id": 15,
+  "reserva_id": 5100,
+  "calificacion": 5,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-02-17",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    438
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2706c"
+  },
+  "cliente_id": 1101,
+  "hotel_id": 16,
+  "reserva_id": 5101,
+  "calificacion": 1,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-03-18",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-18"
+  },
+  "votos_utilidad": [
+    533,
+    444,
+    852,
+    233
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2706d"
+  },
+  "cliente_id": 1102,
+  "hotel_id": 17,
+  "reserva_id": 5102,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-19",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-19"
+  },
+  "votos_utilidad": [
+    873,
+    690
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2706e"
+  },
+  "cliente_id": 1103,
+  "hotel_id": 18,
+  "reserva_id": 5103,
+  "calificacion": 1,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-20",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-20"
+  },
+  "votos_utilidad": [
+    783,
+    963
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2706f"
+  },
+  "cliente_id": 1104,
+  "hotel_id": 19,
+  "reserva_id": 5104,
+  "calificacion": 1,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-03-21",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    556,
+    805,
+    914
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27070"
+  },
+  "cliente_id": 1105,
+  "hotel_id": 20,
+  "reserva_id": 5105,
+  "calificacion": 2,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-01-22",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-22"
+  },
+  "votos_utilidad": [
+    323,
+    495
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27071"
+  },
+  "cliente_id": 1106,
+  "hotel_id": 21,
+  "reserva_id": 5106,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-23",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-23"
+  },
+  "votos_utilidad": [
+    662,
+    387,
+    750
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27072"
+  },
+  "cliente_id": 1107,
+  "hotel_id": 22,
+  "reserva_id": 5107,
+  "calificacion": 5,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-03-24",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-24"
+  },
+  "votos_utilidad": [
+    647,
+    223,
+    532,
+    513,
+    858
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27073"
+  },
+  "cliente_id": 1108,
+  "hotel_id": 23,
+  "reserva_id": 5108,
+  "calificacion": 4,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-01-25",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-25"
+  },
+  "votos_utilidad": [
+    818
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27074"
+  },
+  "cliente_id": 1109,
+  "hotel_id": 24,
+  "reserva_id": 5109,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-26",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-26"
+  },
+  "votos_utilidad": [
+    469
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27075"
+  },
+  "cliente_id": 1110,
+  "hotel_id": 15,
+  "reserva_id": 5110,
+  "calificacion": 3,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-03-27",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-27"
+  },
+  "votos_utilidad": [
+    699,
+    834,
+    979
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27076"
+  },
+  "cliente_id": 1111,
+  "hotel_id": 16,
+  "reserva_id": 5111,
+  "calificacion": 3,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-28",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-28"
+  },
+  "votos_utilidad": [
+    526
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27077"
+  },
+  "cliente_id": 1112,
+  "hotel_id": 17,
+  "reserva_id": 5112,
+  "calificacion": 1,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-02-01",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    862,
+    437,
+    737,
+    715
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27078"
+  },
+  "cliente_id": 1113,
+  "hotel_id": 18,
+  "reserva_id": 5113,
+  "calificacion": 4,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-02",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    200
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27079"
+  },
+  "cliente_id": 1114,
+  "hotel_id": 19,
+  "reserva_id": 5114,
+  "calificacion": 4,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-03",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-03"
+  },
+  "votos_utilidad": [
+    233,
+    489
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2707a"
+  },
+  "cliente_id": 1115,
+  "hotel_id": 20,
+  "reserva_id": 5115,
+  "calificacion": 3,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-02-04",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-04"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2707b"
+  },
+  "cliente_id": 1116,
+  "hotel_id": 21,
+  "reserva_id": 5116,
+  "calificacion": 2,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-03-05",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    898
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2707c"
+  },
+  "cliente_id": 1117,
+  "hotel_id": 22,
+  "reserva_id": 5117,
+  "calificacion": 3,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-01-06",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    829,
+    808
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2707d"
+  },
+  "cliente_id": 1118,
+  "hotel_id": 23,
+  "reserva_id": 5118,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-07",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-07"
+  },
+  "votos_utilidad": [
+    937,
+    371,
+    607
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2707e"
+  },
+  "cliente_id": 1119,
+  "hotel_id": 24,
+  "reserva_id": 5119,
+  "calificacion": 3,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-03-08",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    204,
+    787,
+    409,
+    837,
+    985
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2707f"
+  },
+  "cliente_id": 1120,
+  "hotel_id": 15,
+  "reserva_id": 5120,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-09",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-09"
+  },
+  "votos_utilidad": [
+    602,
+    302,
+    621,
+    792,
+    321
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27080"
+  },
+  "cliente_id": 1121,
+  "hotel_id": 16,
+  "reserva_id": 5121,
+  "calificacion": 4,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-02-10",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27081"
+  },
+  "cliente_id": 1122,
+  "hotel_id": 17,
+  "reserva_id": 5122,
+  "calificacion": 5,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-03-11",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-11"
+  },
+  "votos_utilidad": [
+    602,
+    387,
+    879,
+    658
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27082"
+  },
+  "cliente_id": 1123,
+  "hotel_id": 18,
+  "reserva_id": 5123,
+  "calificacion": 1,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-01-12",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    749
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27083"
+  },
+  "cliente_id": 1124,
+  "hotel_id": 19,
+  "reserva_id": 5124,
+  "calificacion": 5,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-02-13",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    709,
+    743,
+    520,
+    938
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27084"
+  },
+  "cliente_id": 1125,
+  "hotel_id": 20,
+  "reserva_id": 5125,
+  "calificacion": 3,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-03-14",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-14"
+  },
+  "votos_utilidad": [
+    760,
+    580,
+    866,
+    338,
+    602
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27085"
+  },
+  "cliente_id": 1126,
+  "hotel_id": 21,
+  "reserva_id": 5126,
+  "calificacion": 3,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-01-15",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-15"
+  },
+  "votos_utilidad": [
+    964,
+    840,
+    243
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27086"
+  },
+  "cliente_id": 1127,
+  "hotel_id": 22,
+  "reserva_id": 5127,
+  "calificacion": 2,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-02-16",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-16"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27087"
+  },
+  "cliente_id": 1128,
+  "hotel_id": 23,
+  "reserva_id": 5128,
+  "calificacion": 4,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-03-17",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27088"
+  },
+  "cliente_id": 1129,
+  "hotel_id": 24,
+  "reserva_id": 5129,
+  "calificacion": 3,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-01-18",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    774
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27089"
+  },
+  "cliente_id": 1130,
+  "hotel_id": 15,
+  "reserva_id": 5130,
+  "calificacion": 2,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-02-19",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    735,
+    984,
+    345,
+    885,
+    518
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2708a"
+  },
+  "cliente_id": 1131,
+  "hotel_id": 16,
+  "reserva_id": 5131,
+  "calificacion": 4,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-20",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-20"
+  },
+  "votos_utilidad": [
+    921,
+    912
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2708b"
+  },
+  "cliente_id": 1132,
+  "hotel_id": 17,
+  "reserva_id": 5132,
+  "calificacion": 5,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-21",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-21"
+  },
+  "votos_utilidad": [
+    882,
+    755,
+    484,
+    934,
+    463
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2708c"
+  },
+  "cliente_id": 1133,
+  "hotel_id": 18,
+  "reserva_id": 5133,
+  "calificacion": 2,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-02-22",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    483,
+    381,
+    462,
+    302,
+    741
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2708d"
+  },
+  "cliente_id": 1134,
+  "hotel_id": 19,
+  "reserva_id": 5134,
+  "calificacion": 1,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-03-23",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    901,
+    756
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2708e"
+  },
+  "cliente_id": 1135,
+  "hotel_id": 20,
+  "reserva_id": 5135,
+  "calificacion": 1,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-24",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    829,
+    399,
+    764,
+    576,
+    318
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2708f"
+  },
+  "cliente_id": 1136,
+  "hotel_id": 21,
+  "reserva_id": 5136,
+  "calificacion": 3,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-02-25",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    240,
+    212
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27090"
+  },
+  "cliente_id": 1137,
+  "hotel_id": 22,
+  "reserva_id": 5137,
+  "calificacion": 4,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-03-26",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-26"
+  },
+  "votos_utilidad": [
+    263,
+    780,
+    245,
+    364
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27091"
+  },
+  "cliente_id": 1138,
+  "hotel_id": 23,
+  "reserva_id": 5138,
+  "calificacion": 2,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-27",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-27"
+  },
+  "votos_utilidad": [
+    456,
+    748,
+    469
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27092"
+  },
+  "cliente_id": 1139,
+  "hotel_id": 24,
+  "reserva_id": 5139,
+  "calificacion": 1,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-02-28",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-28"
+  },
+  "votos_utilidad": [
+    567
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27093"
+  },
+  "cliente_id": 1140,
+  "hotel_id": 15,
+  "reserva_id": 5140,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-03-01",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-01"
+  },
+  "votos_utilidad": [
+    864,
+    871,
+    219,
+    940,
+    625
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27094"
+  },
+  "cliente_id": 1141,
+  "hotel_id": 16,
+  "reserva_id": 5141,
+  "calificacion": 2,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-02",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-02"
+  },
+  "votos_utilidad": [
+    627,
+    594,
+    229
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27095"
+  },
+  "cliente_id": 1142,
+  "hotel_id": 17,
+  "reserva_id": 5142,
+  "calificacion": 2,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-02-03",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-03"
+  },
+  "votos_utilidad": [
+    334
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27096"
+  },
+  "cliente_id": 1143,
+  "hotel_id": 18,
+  "reserva_id": 5143,
+  "calificacion": 4,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-04",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-04"
+  },
+  "votos_utilidad": [
+    229,
+    534,
+    507
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27097"
+  },
+  "cliente_id": 1144,
+  "hotel_id": 19,
+  "reserva_id": 5144,
+  "calificacion": 4,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-01-05",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-05"
+  },
+  "votos_utilidad": [
+    772,
+    254
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27098"
+  },
+  "cliente_id": 1145,
+  "hotel_id": 20,
+  "reserva_id": 5145,
+  "calificacion": 2,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-02-06",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    862,
+    537
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c27099"
+  },
+  "cliente_id": 1146,
+  "hotel_id": 21,
+  "reserva_id": 5146,
+  "calificacion": 4,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-07",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2709a"
+  },
+  "cliente_id": 1147,
+  "hotel_id": 22,
+  "reserva_id": 5147,
+  "calificacion": 2,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-01-08",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-08"
+  },
+  "votos_utilidad": [
+    746,
+    663,
+    914,
+    403
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2709b"
+  },
+  "cliente_id": 1148,
+  "hotel_id": 23,
+  "reserva_id": 5148,
+  "calificacion": 4,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-02-09",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    844,
+    254,
+    853,
+    300,
+    911
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2709c"
+  },
+  "cliente_id": 1149,
+  "hotel_id": 24,
+  "reserva_id": 5149,
+  "calificacion": 5,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-03-10",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    645,
+    334,
+    469,
+    532,
+    639
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2709d"
+  },
+  "cliente_id": 1150,
+  "hotel_id": 15,
+  "reserva_id": 5150,
+  "calificacion": 4,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-11",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-11"
+  },
+  "votos_utilidad": [
+    909,
+    224,
+    978,
+    430
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2709e"
+  },
+  "cliente_id": 1151,
+  "hotel_id": 16,
+  "reserva_id": 5151,
+  "calificacion": 2,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-12",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-12"
+  },
+  "votos_utilidad": [
+    654,
+    683
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c2709f"
+  },
+  "cliente_id": 1152,
+  "hotel_id": 17,
+  "reserva_id": 5152,
+  "calificacion": 3,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-03-13",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a0"
+  },
+  "cliente_id": 1153,
+  "hotel_id": 18,
+  "reserva_id": 5153,
+  "calificacion": 5,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-01-14",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    796,
+    484,
+    911
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a1"
+  },
+  "cliente_id": 1154,
+  "hotel_id": 19,
+  "reserva_id": 5154,
+  "calificacion": 1,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-02-15",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-15"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a2"
+  },
+  "cliente_id": 1155,
+  "hotel_id": 20,
+  "reserva_id": 5155,
+  "calificacion": 4,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-16",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-16"
+  },
+  "votos_utilidad": [
+    693,
+    673,
+    869
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a3"
+  },
+  "cliente_id": 1156,
+  "hotel_id": 21,
+  "reserva_id": 5156,
+  "calificacion": 2,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-01-17",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-17"
+  },
+  "votos_utilidad": [
+    248
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a4"
+  },
+  "cliente_id": 1157,
+  "hotel_id": 22,
+  "reserva_id": 5157,
+  "calificacion": 2,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-02-18",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-18"
+  },
+  "votos_utilidad": [
+    813,
+    695
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a5"
+  },
+  "cliente_id": 1158,
+  "hotel_id": 23,
+  "reserva_id": 5158,
+  "calificacion": 3,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-03-19",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-19"
+  },
+  "votos_utilidad": [
+    441,
+    757
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a6"
+  },
+  "cliente_id": 1159,
+  "hotel_id": 24,
+  "reserva_id": 5159,
+  "calificacion": 3,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-01-20",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    278,
+    333,
+    992,
+    203,
+    308
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a7"
+  },
+  "cliente_id": 1160,
+  "hotel_id": 15,
+  "reserva_id": 5160,
+  "calificacion": 2,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-02-21",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-21"
+  },
+  "votos_utilidad": [
+    941,
+    996,
+    454,
+    312
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a8"
+  },
+  "cliente_id": 1161,
+  "hotel_id": 16,
+  "reserva_id": 5161,
+  "calificacion": 4,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-22",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-22"
+  },
+  "votos_utilidad": [
+    369,
+    434,
+    345
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270a9"
+  },
+  "cliente_id": 1162,
+  "hotel_id": 17,
+  "reserva_id": 5162,
+  "calificacion": 2,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-23",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-23"
+  },
+  "votos_utilidad": [
+    437,
+    320,
+    749,
+    946
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270aa"
+  },
+  "cliente_id": 1163,
+  "hotel_id": 18,
+  "reserva_id": 5163,
+  "calificacion": 5,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-02-24",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    276
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270ab"
+  },
+  "cliente_id": 1164,
+  "hotel_id": 19,
+  "reserva_id": 5164,
+  "calificacion": 2,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-03-25",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-25"
+  },
+  "votos_utilidad": [
+    283,
+    765,
+    879,
+    308
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270ac"
+  },
+  "cliente_id": 1165,
+  "hotel_id": 20,
+  "reserva_id": 5165,
+  "calificacion": 3,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-26",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-26"
+  },
+  "votos_utilidad": [
+    572,
+    723,
+    433,
+    370
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270ad"
+  },
+  "cliente_id": 1166,
+  "hotel_id": 21,
+  "reserva_id": 5166,
+  "calificacion": 5,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-02-27",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    278,
+    621,
+    466,
+    404,
+    548
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270ae"
+  },
+  "cliente_id": 1167,
+  "hotel_id": 22,
+  "reserva_id": 5167,
+  "calificacion": 5,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-03-28",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-28"
+  },
+  "votos_utilidad": [
+    270,
+    614,
+    805
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270af"
+  },
+  "cliente_id": 1168,
+  "hotel_id": 23,
+  "reserva_id": 5168,
+  "calificacion": 2,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-01-01",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-01"
+  },
+  "votos_utilidad": [
+    964,
+    503,
+    880,
+    300,
+    904
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b0"
+  },
+  "cliente_id": 1169,
+  "hotel_id": 24,
+  "reserva_id": 5169,
+  "calificacion": 3,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-02-02",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    824,
+    313,
+    631,
+    219,
+    809
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b1"
+  },
+  "cliente_id": 1170,
+  "hotel_id": 15,
+  "reserva_id": 5170,
+  "calificacion": 2,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-03-03",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    846,
+    654,
+    892
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b2"
+  },
+  "cliente_id": 1171,
+  "hotel_id": 16,
+  "reserva_id": 5171,
+  "calificacion": 4,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-01-04",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    768
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b3"
+  },
+  "cliente_id": 1172,
+  "hotel_id": 17,
+  "reserva_id": 5172,
+  "calificacion": 4,
+  "texto": "Volvería nuevamente.",
+  "fecha_creacion": "2026-02-05",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-05"
+  },
+  "votos_utilidad": [
+    766
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b4"
+  },
+  "cliente_id": 1173,
+  "hotel_id": 18,
+  "reserva_id": 5173,
+  "calificacion": 4,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-03-06",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-06"
+  },
+  "votos_utilidad": [
+    550
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b5"
+  },
+  "cliente_id": 1174,
+  "hotel_id": 19,
+  "reserva_id": 5174,
+  "calificacion": 4,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-01-07",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-07"
+  },
+  "votos_utilidad": [
+    663,
+    498,
+    234,
+    572,
+    414
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b6"
+  },
+  "cliente_id": 1175,
+  "hotel_id": 20,
+  "reserva_id": 5175,
+  "calificacion": 5,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-02-08",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-08"
+  },
+  "votos_utilidad": [
+    681,
+    884,
+    333
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b7"
+  },
+  "cliente_id": 1176,
+  "hotel_id": 21,
+  "reserva_id": 5176,
+  "calificacion": 1,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-09",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-09"
+  },
+  "votos_utilidad": [
+    591,
+    666,
+    974
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b8"
+  },
+  "cliente_id": 1177,
+  "hotel_id": 22,
+  "reserva_id": 5177,
+  "calificacion": 1,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-01-10",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-10"
+  },
+  "votos_utilidad": [
+    900
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270b9"
+  },
+  "cliente_id": 1178,
+  "hotel_id": 23,
+  "reserva_id": 5178,
+  "calificacion": 5,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-02-11",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-11"
+  },
+  "votos_utilidad": [
+    490,
+    955,
+    681
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270ba"
+  },
+  "cliente_id": 1179,
+  "hotel_id": 24,
+  "reserva_id": 5179,
+  "calificacion": 2,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-03-12",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270bb"
+  },
+  "cliente_id": 1180,
+  "hotel_id": 15,
+  "reserva_id": 5180,
+  "calificacion": 5,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-01-13",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    444,
+    982,
+    957,
+    631
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270bc"
+  },
+  "cliente_id": 1181,
+  "hotel_id": 16,
+  "reserva_id": 5181,
+  "calificacion": 5,
+  "texto": "Buena experiencia general.",
+  "fecha_creacion": "2026-02-14",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-14"
+  },
+  "votos_utilidad": [
+    927,
+    897,
+    205,
+    859
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270bd"
+  },
+  "cliente_id": 1182,
+  "hotel_id": 17,
+  "reserva_id": 5182,
+  "calificacion": 5,
+  "texto": "Muy buena ubicación.",
+  "fecha_creacion": "2026-03-15",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 5,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-15"
+  },
+  "votos_utilidad": [
+    892,
+    984,
+    779,
+    219,
+    264
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270be"
+  },
+  "cliente_id": 1183,
+  "hotel_id": 18,
+  "reserva_id": 5183,
+  "calificacion": 5,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-16",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-16"
+  },
+  "votos_utilidad": [
+    228
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270bf"
+  },
+  "cliente_id": 1184,
+  "hotel_id": 19,
+  "reserva_id": 5184,
+  "calificacion": 4,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-02-17",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    604,
+    918,
+    897,
+    587
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c0"
+  },
+  "cliente_id": 1185,
+  "hotel_id": 20,
+  "reserva_id": 5185,
+  "calificacion": 4,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-03-18",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    889,
+    942,
+    530,
+    438
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c1"
+  },
+  "cliente_id": 1186,
+  "hotel_id": 21,
+  "reserva_id": 5186,
+  "calificacion": 4,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-19",
+  "estado": "aprobada",
+  "destacada": true,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-19"
+  },
+  "votos_utilidad": [
+    430,
+    309,
+    596,
+    801
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c2"
+  },
+  "cliente_id": 1187,
+  "hotel_id": 22,
+  "reserva_id": 5187,
+  "calificacion": 4,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-02-20",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    442,
+    272,
+    364,
+    678
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c3"
+  },
+  "cliente_id": 1188,
+  "hotel_id": 23,
+  "reserva_id": 5188,
+  "calificacion": 5,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-21",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    520,
+    454,
+    800,
+    331
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c4"
+  },
+  "cliente_id": 1189,
+  "hotel_id": 24,
+  "reserva_id": 5189,
+  "calificacion": 2,
+  "texto": "Servicio aceptable.",
+  "fecha_creacion": "2026-01-22",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c5"
+  },
+  "cliente_id": 1190,
+  "hotel_id": 15,
+  "reserva_id": 5190,
+  "calificacion": 5,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-02-23",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-23"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c6"
+  },
+  "cliente_id": 1191,
+  "hotel_id": 16,
+  "reserva_id": 5191,
+  "calificacion": 2,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-03-24",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    829,
+    491,
+    449,
+    791
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c7"
+  },
+  "cliente_id": 1192,
+  "hotel_id": 17,
+  "reserva_id": 5192,
+  "calificacion": 2,
+  "texto": "No cumplió expectativas.",
+  "fecha_creacion": "2026-01-25",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-25"
+  },
+  "votos_utilidad": [
+    983,
+    814,
+    716,
+    586
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c8"
+  },
+  "cliente_id": 1193,
+  "hotel_id": 18,
+  "reserva_id": 5193,
+  "calificacion": 1,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-02-26",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 5,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    900,
+    594,
+    389,
+    327,
+    285
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270c9"
+  },
+  "cliente_id": 1194,
+  "hotel_id": 19,
+  "reserva_id": 5194,
+  "calificacion": 4,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-03-27",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 3,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-27"
+  },
+  "votos_utilidad": [
+    916,
+    349,
+    788
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270ca"
+  },
+  "cliente_id": 1195,
+  "hotel_id": 20,
+  "reserva_id": 5195,
+  "calificacion": 4,
+  "texto": "Atención promedio.",
+  "fecha_creacion": "2026-01-28",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-01-28"
+  },
+  "votos_utilidad": [
+    392
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270cb"
+  },
+  "cliente_id": 1196,
+  "hotel_id": 21,
+  "reserva_id": 5196,
+  "calificacion": 1,
+  "texto": "Experiencia increíble, recomendado.",
+  "fecha_creacion": "2026-02-01",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-01"
+  },
+  "votos_utilidad": []
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270cc"
+  },
+  "cliente_id": 1197,
+  "hotel_id": 22,
+  "reserva_id": 5197,
+  "calificacion": 3,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-03-02",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 1,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-03-02"
+  },
+  "votos_utilidad": [
+    896
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270cd"
+  },
+  "cliente_id": 1198,
+  "hotel_id": 23,
+  "reserva_id": 5198,
+  "calificacion": 2,
+  "texto": "El hotel puede mejorar algunos detalles.",
+  "fecha_creacion": "2026-01-03",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 4,
+  "respuesta_admin": null,
+  "votos_utilidad": [
+    391,
+    752,
+    877,
+    771
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270ce"
+  },
+  "cliente_id": 1199,
+  "hotel_id": 24,
+  "reserva_id": 5199,
+  "calificacion": 2,
+  "texto": "Habitaciones cómodas y limpias.",
+  "fecha_creacion": "2026-02-04",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 2,
+  "respuesta_admin": {
+    "mensaje": "Gracias por su comentario",
+    "fecha": "2026-02-04"
+  },
+  "votos_utilidad": [
+    983,
+    813
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a178e8a8f0ab36aa0c270cf"
+  },
+  "cliente_id": 1200,
+  "hotel_id": 15,
+  "reserva_id": 5200,
+  "calificacion": 3,
+  "texto": "Excelente servicio y limpieza.",
+  "fecha_creacion": "2026-03-05",
+  "estado": "aprobada",
+  "destacada": false,
+  "utilidad_total": 0,
+  "respuesta_admin": null,
+  "votos_utilidad": []
+}]

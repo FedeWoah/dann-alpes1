@@ -1,0 +1,50 @@
+[{
+  "_id": 15,
+  "nombre": "Dann Centro",
+  "ciudad": "Bogotá"
+},
+{
+  "_id": 16,
+  "nombre": "Dann Norte",
+  "ciudad": "Bogotá"
+},
+{
+  "_id": 17,
+  "nombre": "Dann Sur",
+  "ciudad": "Bogotá"
+},
+{
+  "_id": 18,
+  "nombre": "Dann Medellín Central",
+  "ciudad": "Medellín"
+},
+{
+  "_id": 19,
+  "nombre": "Dann Medellín Norte",
+  "ciudad": "Medellín"
+},
+{
+  "_id": 20,
+  "nombre": "Dann Cali Centro",
+  "ciudad": "Cali"
+},
+{
+  "_id": 21,
+  "nombre": "Dann Cali Sur",
+  "ciudad": "Cali"
+},
+{
+  "_id": 22,
+  "nombre": "Dann Cartagena Beach",
+  "ciudad": "Cartagena"
+},
+{
+  "_id": 23,
+  "nombre": "Dann Cartagena Centro",
+  "ciudad": "Cartagena"
+},
+{
+  "_id": 24,
+  "nombre": "Dann Pereira",
+  "ciudad": "Pereira"
+}]
